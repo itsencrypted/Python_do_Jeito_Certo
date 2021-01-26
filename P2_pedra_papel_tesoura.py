@@ -49,5 +49,7 @@ elif jogador_1 == 'pedra' and jogador_2 == 'papel':
     print("Jogador 2 vence!")
 elif jogador_2 == 'pedra' and jogador_1 == 'papel':
     print("Jogador 1 vence!")
+    
+    //alterei aqui essa linha de codigo...
 
 
